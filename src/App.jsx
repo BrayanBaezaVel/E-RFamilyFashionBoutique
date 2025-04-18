@@ -4,7 +4,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.bundle.min.js";
 import NavBar from "./components/NavBar";
 import Inicio from "./components/inicio";
-import Categories from "./components/Categories";
+import Categories from "./components/categories";
 import CatalogoDama from "./components/catalogoDama";
 import CatalogoCaballero from "./components/catalogoCaballero";
 import Contacto from "./components/contact";

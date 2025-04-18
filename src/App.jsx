@@ -2,8 +2,7 @@ import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.bundle.min.js";
-
-import NavBar from "./components/navBar";
+import NavBar from "./components/NavBar";
 import Inicio from "./components/inicio";
 import Categories from "./components/Categories";
 import CatalogoDama from "./components/catalogoDama";
